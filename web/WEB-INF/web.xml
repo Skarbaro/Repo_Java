@@ -9,7 +9,7 @@
     </servlet>
     <servlet-mapping>
         <servlet-name>NewServlet</servlet-name>
-        <url-pattern>/hello-world</url-pattern>
+        <url-pattern>/test-servlet</url-pattern>
     </servlet-mapping>
     <servlet>
         <servlet-name>FirstJsp</servlet-name>

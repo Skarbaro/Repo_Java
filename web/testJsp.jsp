@@ -12,16 +12,6 @@
 </head>
 <body>
     <h1>Testing JSP</h1>
-    <p>
-        <%@ page import="java.util.Date"%>
-        <%@ page import="logic.TestClass" %>
 
-        <%
-            TestClass testClass = new TestClass();
-        %>
-        <%=
-            testClass.getInfo()
-        %>
-    </p>
 </body>
 </html>
