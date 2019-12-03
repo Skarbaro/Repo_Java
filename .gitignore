@@ -1,21 +1,6 @@
-# Default ignored files
-/.idea/workspace.xml
-.idea
-.idea/*
-.idea/libraries
-.idea/.name
-.idea/vcs.xml
-.idea/workspace.xml
-/.idea/workspace.xml
-target/
-target/generated-sources/
-target/generated-test-sources/
-target/test-classes
-target/site
-*.log
-*.iml
-*.ipr
-*.iws
-HW5.txt
-.log
-.allure
+/node_modules
+/build
+/.idea
+/.firebase
+
+config.js
